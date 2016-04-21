@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jini:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jini_jar</output-path>
+    <root id="archive" name="jini.jar">
+      <element id="module-output" name="jini" />
+    </root>
+  </artifact>
+</component>
